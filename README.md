@@ -14,3 +14,6 @@ By doing above step your data will be scraped and stored in mysql database.
 
 step:4 If you want to store the scrape data into json file just add -o option and file name like data.json
 scrapy runspider data.py -o data.json
+
+django project
+https://github.com/hackstarsj/student_management_system_part_11
