@@ -28,3 +28,7 @@ https://django-rest-auth.readthedocs.io/en/latest/installation.html
 
 django rest auth
 https://wsvincent.com/django-rest-framework-user-authentication-tutorial/
+
+username not required
+https://krakensystems.co/blog/2020/custom-users-using-django-rest-framework
+https://krakensystems.co/blog/2020/custom-users-using-django-rest-framework
