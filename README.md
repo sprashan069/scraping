@@ -17,3 +17,14 @@ scrapy runspider data.py -o data.json
 
 django project
 https://github.com/hackstarsj/student_management_system_part_11
+
+
+django rest auth
+https://medium.com/@blakeyang22/django-signup-with-activation-email-via-api-7384e6766710
+
+
+django social login
+https://django-rest-auth.readthedocs.io/en/latest/installation.html
+
+django rest auth
+https://wsvincent.com/django-rest-framework-user-authentication-tutorial/
